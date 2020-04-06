@@ -1,6 +1,7 @@
 # plots
 ML/grid_search_human_v0/
 ML/preliminary/
+ML/plots/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
