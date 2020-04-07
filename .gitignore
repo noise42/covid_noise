@@ -2,6 +2,7 @@
 ML/grid_search_human_v0/
 ML/preliminary/
 ML/plots/
+ML/test/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
